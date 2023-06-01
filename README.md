@@ -1,6 +1,6 @@
 ### Olá sou Ivan Pires, estudante de programação e desenvolvimento fullstack.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ivanpires2000/github-readme-stats">
   <img align="center" src="![Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanpires2000&show_icons=true)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
