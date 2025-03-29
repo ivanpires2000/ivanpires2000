@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpires2000&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-###Formação
+### Formação
 <h3>Em andamento</h3>
 <p>Curso Desenvolvimento FullStack (CejaBrasil, 2024)</p>
 
