@@ -1,9 +1,13 @@
-## Oiii eu sou o Ivan Pires, estudante de programação e tecnologia!
+### Oiii eu sou o Ivan Pires, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/ivanpires2000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanpires2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpires2000&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+###Formação
+<h3>Em andamento</h3>
+<p>Curso Desenvolvimento FullStack (CejaBrasil, 2024)</p>
 
 ### Skills
 <hr>
@@ -19,7 +23,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   </div><br>
 
-  ## Socials
+  ### Socials
   <a href="https://instagram.com/ivanpires2000" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ivanpires2000" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ivan.pires2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -37,7 +41,7 @@
   <img align="center" alt="Ivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
-  ##
+  ###
  <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivanpires2000/Ivanpires2000/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ivanpires2000/Ivanpires2000/output/github-contribution-grid-snake.svg">
