@@ -1,10 +1,19 @@
 ### Oiii eu sou o Ivan Pires, estudante de programação e tecnologia!
+<a href="https://github.com/ivanpires2000/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanpires2000" />
+</a>
+<a href="https://github.com/ivanpires2000/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanpires2000&layout=compact&langs_count=20&card_width=320" />
+</a>
+
+
 <div align="center">
   <a href="https://github.com/ivanpires2000">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=20)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanpires2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpires2000&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=20)
+
 ### Formação
 <h3>Em andamento</h3>
 <p>Curso Desenvolvimento FullStack (CejaBrasil, 2024)</p>
