@@ -20,6 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
+<br>
+  
 <a href="https://github.com/ivanpires2000/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanpires2000" />
 </a>
