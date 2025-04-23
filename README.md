@@ -27,9 +27,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanpires2000&layout=compact&langs_count=20&card_width=320" />
 </a><br>
 
-  ###
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivanpires2000/Ivanpires2000/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ivanpires2000/Ivanpires2000/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ivanpires2000/Ivanpires2000/output/github-contribution-grid-snake.svg">
-</picture>
+ 
